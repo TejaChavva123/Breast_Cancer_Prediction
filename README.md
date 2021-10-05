@@ -8,6 +8,7 @@
   
 # Algorithm used 
   **Decision Tree Classifier**
+  
   **Minimal Cost Cmplexity Algorithm**
   
 # Accuracy
